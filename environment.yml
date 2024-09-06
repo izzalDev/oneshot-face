@@ -13,7 +13,7 @@ dependencies:
 - matplotlib
 - onnxruntime
 - pytorch-nightly::pytorch
-- pytorch-nightly::torchvision
+- torchvision
 - mlflow
 - pandas
 - lightning
